@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="assets/css/styles.css">
 </head>
 <div class="login-background">
-    <form class="login-card">
+    <form class="login-card" action="index.php" method="post">
         <div class="login-content">
             <h2>Login</h2>
             <div class="login-content-area">
