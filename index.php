@@ -1,18 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>SkyWay</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
 </head>
 <body>
 <header>
-        <div class="search-container">
-            <input type="text" name="search" placeholder="Busque seu destino..." class="search-input">
-            <a href="#" class="search-btn">
-                    <i class="fas fa-search"></i>      
-            </a>
-        </div>
+    <div class="search-container">
+        <input type="text" name="search" placeholder="Busque seu destino..." class="search-input">
+        <a href="#" class="search-btn">
+                <i class="fas fa-search"></i>      
+        </a>
+    </div>
     <div class="user-parent">
         <div class="user-child">
             <a href="login.php" style="text-decoration: none;" >
@@ -20,8 +22,7 @@
                <div class="background">
                    <i class="fa-solid fa-user"></i>
             </a>
-               </div>
-       </div>
+        </div>
     </div>
 </header>
 
