@@ -1,6 +1,8 @@
+
 <?php
 include "header.php";
 ?> 
+
 <header>
         <div class="search-container">
             <input type="text" name="search" placeholder="Busque seu destino..." class="search-input">
